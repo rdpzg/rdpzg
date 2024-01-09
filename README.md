@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rdpzg
-- 👀 I’m interested in mobile app development
+- 👀 I’m interested in Web and mobile app development
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Android projects
 - 📫 How to reach me? PM
